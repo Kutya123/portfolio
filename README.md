@@ -42,4 +42,4 @@ Grid Layout
 
 ![Desktop screen](./image.png)
 
-[Демо](https://reliable-biscotti-bf3b64.netlify.app/)
+[Посмотреть DEMO версию](https://reliable-biscotti-bf3b64.netlify.app/)
